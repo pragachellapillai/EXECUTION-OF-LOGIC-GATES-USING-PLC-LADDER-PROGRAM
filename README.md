@@ -1,10 +1,10 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
+ # NAME : Pragaharshitha NC
+ # REGISTER NUMBER :212222110033
+ # DEPARTMENT :CSE(IOT)
+ # YEAR : 3rd year
 
  
 # Aim:
@@ -46,10 +46,34 @@ Function: Outputs LOW when at least one input is HIGH.
 Ladder Logic: An OR gate followed by a NOT gate.
 XOR Gate:
 
+
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
- 
+ AND GATE:
+
+![image](https://github.com/user-attachments/assets/74a55a9e-5db8-4e75-888a-08c5d00b1af6)
+
+OR GATE:
+![360785381-f0fd4784-ae28-4161-ab73-d1097ffc4be6](https://github.com/user-attachments/assets/ce372065-36eb-459e-8342-71937deb84ef)
+
+
+NOT GATE:
+
+![360786123-8b29c5e5-2507-49fa-be88-c92e4f43779d](https://github.com/user-attachments/assets/84dd5a8c-c236-4007-ae68-b6ba8a47e8e8)
+
+NAND GATE:
+
+![360786272-037f1140-ef47-4f02-97f9-e1b560122009](https://github.com/user-attachments/assets/e0535055-1bee-4b64-b0bc-d4beb013cfbf)
+
+NOR GATE:
+
+![360786379-b7287452-bd63-42cf-8c1d-bda5479be303](https://github.com/user-attachments/assets/738f8ba0-98b0-4e59-a668-188021536d34)
+
+EX-OR GATE:
+
+![360787920-520d92d4-cd35-4870-87b4-4a60bd552a28](https://github.com/user-attachments/assets/6ba8986d-e27f-47e6-ad50-2d9a6b2a5012)
+
 # Procedure:
 Setup the PLC Programming Environment:
 
@@ -79,6 +103,28 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+AND GATE:
+
+![360761370-b9554b06-a7eb-4948-99c5-4ba076008c1d](https://github.com/user-attachments/assets/472fb675-3c31-491d-8b28-bbcc939da62c)
+
+OR GATE:
+
+![360779768-baaf1dae-6bc8-46be-b49e-05b1f1093021](https://github.com/user-attachments/assets/fbabf91e-73fe-4b75-87ec-f78b0835434e)
+
+NOT GATE:
+![360775053-4a1ce93d-cc6b-45c6-a550-10b07fe1d7f8](https://github.com/user-attachments/assets/266bad0e-7a5f-42c2-b014-0034d3c4f946)
+
+NAND GATE:
+
+![360761087-e0717d43-bee3-4211-8372-11cbd742476a](https://github.com/user-attachments/assets/497e4f5f-f8ac-47a8-b748-7d127ef3f60d)
+
+NOR GATE:
+
+![360771865-9022c8fc-0a86-447f-9669-42ba8a48d9ba](https://github.com/user-attachments/assets/98aec9e3-8a4f-46a7-a9e5-5d5f1cf6acb3)
+
+EX-OR GATE:
+
+![360788342-235aad23-25d5-4362-9f30-4d70d8a1077f](https://github.com/user-attachments/assets/82931ad6-5c66-4e29-b262-4031eca194c4)
 
 
 #Results:
