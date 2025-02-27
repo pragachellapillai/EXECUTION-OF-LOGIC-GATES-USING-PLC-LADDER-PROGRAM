@@ -128,7 +128,7 @@ EX-OR GATE:
 ![360788342-235aad23-25d5-4362-9f30-4d70d8a1077f](https://github.com/user-attachments/assets/82931ad6-5c66-4e29-b262-4031eca194c4)
 
 
-#Results:
+# Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
 The outputs observed matched the expected results as per the truth tables of the respective logic gates.
 This experiment demonstrates the effective use of PLCs in executing digital logic operations, which are fundamental to industrial control systems.
